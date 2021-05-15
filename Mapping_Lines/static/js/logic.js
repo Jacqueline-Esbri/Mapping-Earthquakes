@@ -1,9 +1,6 @@
 // Add console.log to check to see if our code is working.
 console.log("working");
 
-// Create the map object with a center and zoom level.
-// let map = L.map('mapid').setView([40.7, -94.5], 4);
-
 // Create the map object with center at the San Francisco airport.
 let map = L.map('mapid').setView([37.6213, -122.3790], 5);
 
@@ -19,45 +16,6 @@ let line = [
 L.polyline(line, {
   color: "yellow"
 }).addTo(map);
-
-
-// Add a circle marker to Los Angeles, CA
-// L.circle([34.0522, -118.2437], {
-//     radius: 100
-//  }).addTo(map);
-
-// Circle (light-yellow) w blk lines 300-px on drk map
-// L.circleMarker([34.0522, -118.2437], {
-//     radius: 300,
-//     color: "black",
-//     fillColor: '#ffffa1'
-// }).addTo(map);
-    
-
-//  Add a marker to the map for Los Angeles, California.
-//   let marker = marker([34.0522, -118.2437]).addTo(map);
-
-// Get data from cities.js
-// let cityData = cities;
-
-  // Loop through the cities array and create one marker for each city. (marker)
-//   cityData.forEach(function(city) {
-//     console.log(city)
-//     L.marker(city.location)
-//     .bindPopup("<h2>" + city.city + ", " + city.state + "</h2> <hr> <h3>Population " + city.population.toLocaleString() + "</h3>")
-//   .addTo(map);
-// });
-  
-// cityData.forEach(function(city) {
-//     console.log(city)
-//     L.circleMarker(city.location, {
-//     radius: city.population/100000
-// })
-//     .bindPopup("<h2>" + city.city + ", " + city.state + "</h2> <hr> <h3>Population " + city.population.toLocaleString() + "</h3>")
-//   .addTo(map);
-// });
-
-
 
 // OPTION #1 
 // We create the tile layer that will be the background of our map.
