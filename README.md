@@ -20,17 +20,19 @@ The major earthquake data was added as third layer group, and added to the map a
 
 All the earthquake data and tectonic plate data is beautifully displayed on all maps on the webpage.
 
-Fig.1 Satellite Version
+## Fig.1 Satellite Version
 
 ![map.PNG](PNGs/map.png)
 
-Fig.2 Street Version
+## Fig.2 Street Version
 
 ![street.PNG](PNGs/street.png)
 
-Fig. 3 Dark Version
+## Fig. 3 Dark Version
 
 ![dark.PNG](PNGs/dark.png)
 
 
+## View WebPage Here
 
+https://jacqueline-esbri.github.io/Mapping-Earthquakes/
