@@ -1,6 +1,6 @@
 # Mapping-Earthquakes
+<!-- ![mod13a.png](PNGs/mod13a.png) -->
 ![mod13a.png](PNGs/mod13a.png)
-
 
 ## Overview
 
