@@ -41,6 +41,6 @@ All the earthquake data and tectonic plate data is beautifully displayed on all 
 ![dark.PNG](PNGs/dark.png)
 
 
-## View WebPage Here
+## View Web Page Here
 
 https://jacqueline-esbri.github.io/Mapping-Earthquakes/
